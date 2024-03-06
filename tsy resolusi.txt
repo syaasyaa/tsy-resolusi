@@ -1,0 +1,4 @@
+tsy rwsolusi
+-konsisten untuk mengerjakan tugas
+-membuat platform untuk pengelolaan video
+-membuat form diskusi
