@@ -3,7 +3,11 @@ RENCANA KONTEN TSY
 -Javascript
 *ES6
 *Frameworks Javascript
+ ^vue
+ ^react
 -Stuktur data dasar
 -PHP Frameworks
+ ^laravel
 -Interview
 -Vlogs
+-python
