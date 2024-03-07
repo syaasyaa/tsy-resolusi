@@ -3,6 +3,7 @@ RENCANA KONTEN TSY
 -Javascript
 *ES6
 *Frameworks Javascript
+-Stuktur data dasar
 -PHP Frameworks
 -Interview
 -Vlogs
