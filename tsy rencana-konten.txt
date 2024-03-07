@@ -4,7 +4,7 @@ RENCANA KONTEN TSY
 *ES6
 *Frameworks Javascript
  ^vue
-^react
+ ^react
 -Stuktur data dasar
 -PHP Frameworks
  ^laravel
